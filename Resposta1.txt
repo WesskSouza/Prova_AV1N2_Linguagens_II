@@ -1,0 +1,4 @@
+Resposta da Primeira Questão – Respondida
+
+O usuário se comunica com o serviço, em seguida o serviço se comunica com o back-end solicitando que os dados do serviço 
+sejam salvos no cache, o que permite a utilização desses dados offline.
