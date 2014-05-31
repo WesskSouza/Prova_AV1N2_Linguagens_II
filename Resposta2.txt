@@ -1,0 +1,2 @@
+O diagrama de interface do usuário solicita a imagem ao cache e em seguida o cache carrega a imagem do servidor.
+após isso, a aplicação retorna a imagem solicitada em tamanho adequado à tela do dispositivo.
